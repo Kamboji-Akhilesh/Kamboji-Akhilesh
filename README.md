@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV2YmhsZmtoN2p2bm5lNDNwdDdtbTNkMm96aWxrcDFybm4yZWIzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="150"/>
+</div>
+
 # Hi 👋! My name is Kamboji Akhilesh
 ### love developing cross platform applications
 
