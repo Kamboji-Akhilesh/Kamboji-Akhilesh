@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate on anything based on Flutter, React and Java
 - 💬 Ask me about Flutter, Angular, Spring Boot, React
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-KambojiAkhilesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamboji-akhilesh-b9333b12b)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Kamboji%20Akhilesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamboji-akhilesh-b9333b12b)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -52,9 +52,16 @@
 
 ### :fire: My Stats :
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamboji-Akhilesh&layout=compact&theme=vision-friendly-dark&&exclude_repo=Quantum-Hackathon)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kamboji-Akhilesh&theme=dark&background=000000)](https://git.io/streak-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamboji-Akhilesh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamboji-Akhilesh&show_icons=true&theme=dark)
+
+### :moneybag: Support :
+<a href="https://www.buymeacoffee.com/kambojiakhilesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akhilesh" /></a>
+
+<br />
 
 ### 😉: Programming Joke :
 
