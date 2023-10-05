@@ -59,9 +59,7 @@
 ![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamboji-Akhilesh&show_icons=true&theme=dark)
 
 ### :moneybag: Support :
-<a href="https://www.buymeacoffee.com/kambojiakhilesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akhilesh" /></a>
-
-<br />
+<a href="https://www.buymeacoffee.com/kambojiakhilesh"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akhilesh" /></a>
 
 ### 😉: Programming Joke :
 
